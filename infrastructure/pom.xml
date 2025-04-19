@@ -10,6 +10,9 @@
     </parent>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>adapters</module>
+    </modules>
     <artifactId>infrastructure</artifactId>
     <groupId>goodsmanagment-infrastructure</groupId>
     <version>0.0.1-SNAPSHOT</version>
